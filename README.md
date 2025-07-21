@@ -1,3 +1,7 @@
+This repository containing all simulations I made for my [SOME4](https://some.3b1b.co/) project on solving the problem of estimating the number of legal sequences of first `N` moves in chess (and other chess-like games)
+
+Leaving the content of original README in Fairy-Stockfish repository below:
+
 # Fairy-Stockfish
 
 ## Overview
